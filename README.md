@@ -64,8 +64,8 @@ Response:
 json
 
 {
-    "name": "morpheus",
-    "job": "leader",
+    "name": "Nozipho",
+    "job": "Seniour QA leader",
     "id": "123",
     "createdAt": "2023-08-11T12:00:00.000Z"
 }
